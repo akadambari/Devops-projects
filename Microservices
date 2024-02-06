@@ -1,0 +1,19 @@
+Microservices are an architectural and organizational approach to software development in which software is composed of small, independent services that communicate to each other. 
+There are different ways microservices can communicate, but the two commonly used protocols are HTTP request/response over well-defined APIs, and lightweight asynchronous messaging.
+
+The characteristics of a microservices architectureinclude the following:
+• Componentization via services
+• Organized around business capabilities
+• Products not projects
+• Smart endpoints and dumb pipes
+• Decentralized governance
+• Decentralized data management
+• Infrastructure automation
+• Design for failure
+• Evolutionary design
+
+These characteristics tell us how a microservices architecture is supposed to behave. To help achieve these characteristics, many development teams have adopted the twelve-factor app pattern methodology
+
+The twelve factors are a set of best practices for building modern applications that are optimized for cloud computing. 
+
+The twelve factors cover four key areas: deployment, scale, portability, and architecture
